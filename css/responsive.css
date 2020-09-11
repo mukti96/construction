@@ -1,0 +1,685 @@
+/* Large desktop :992px. */
+@media (min-width: 1920px) and (max-width: 2000px) {
+
+}
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+.logo {
+	padding-left: 21px;
+}
+.header-text h2 {
+	font-size: 46px;
+	line-height: 37px;
+}
+.section-title h2 {
+	font-size: 30px;
+}
+.about-image img {
+	width: 83%;
+}
+#accordion div span {
+	margin-bottom: 8px;
+}
+#sing {
+	padding-top: 22px;
+}
+.single-client::before {
+	width: 98%;
+	left: 11%;
+}
+.single-client p {
+	margin-left: 23%;
+}
+.single-client span {
+	margin-left: 23%;
+}
+.team-text p {
+	padding-right: 40px;
+	padding-left: 40px;
+}
+.blog-desc p {
+	padding-left: 10px;
+	padding-right: 20px;
+	text-align: justify;
+}
+.leave-coment-form input[type="text"], .leave-coment-form input[type="email"]{
+	width: 49%;
+}
+.leave-coment-form input[type="email"] {
+	margin-left: 9px;
+}
+.single-recent-posts2 h4 a {
+	font-size: 14px;
+}
+.contact-bg {
+	width: 85%;
+	left: 7%;
+}
+#social-icon ul li {
+	margin-right: 13px;
+}
+
+}
+
+/*======= End =========*/
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.logo {
+	padding-top: 25px;
+}
+.logo img{
+	width: 100%;
+}
+.menu {
+	padding-top: 30px;
+}
+.menu li a {
+	font-size: 12px;
+	margin-left: 16px;
+}
+.header-top {
+	height: 80px;
+}
+.welcome-header-area .stick {
+	height: 80px;
+}
+.header-text {
+	top: 30%;
+}
+.header-text h2 {
+	font-size: 30px;
+	line-height: 24px;
+}
+.header-text p {
+	font-size: 14px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+	line-height: 22px;
+}
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+	bottom: 25px;
+}
+.section-title h2 {
+	font-size: 26px;
+	margin-bottom: 26px;
+}
+.section-title p {
+	font-size: 14px;
+	line-height: 25px;
+	margin-bottom: 50px;
+}
+.single-service {
+	padding-right: 30px;
+	padding-left: 30px;
+}
+.service-text h2 {
+	padding-bottom: 24px;
+	font-size: 17px;
+}
+.service-text p {
+	font-size: 14px;
+	line-height: 28px;
+	text-align: justify;
+}
+.about-image img {
+	width: 85%;
+}
+#accordion h3 {
+	font-size: 16px;
+}
+.ui-accordion .ui-accordion-header {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+#accordion div span {
+	font-size: 15px;
+	margin-bottom: 8px;
+}
+#accordion div {
+	font-size: 14px;
+}
+#sing {
+	padding-top: 15px;
+}
+.work-menu button {
+	font-size: 17px;
+}
+.single-client::before {
+	width: 86%;
+	height: 93%;
+	left: 11%;
+}
+.single-client img {
+	top: 63px;
+}
+.single-client i:nth-child(2) {
+	font-size: 30px;
+	padding-top: 40px;
+}
+.single-client p {
+	margin-left: 25%;
+	font-size: 14px;
+	padding-top: 19px;
+	padding-right: 30px;
+	text-align: justify;
+}
+.client-icon.text-right {
+	margin-right: 41px;
+}
+.single-client i:nth-child(1) {
+	font-size: 30px;
+	padding-top: 0px;
+}
+.single-name {
+	padding-top: 9px;
+}
+.single-client span {
+	margin-left: 23%;
+	font-size: 14px;
+}
+.team-text h3 {
+	font-size: 17px;
+}
+.team-text h4 {
+	font-size: 14px;
+	padding-bottom: 25px;
+}
+.team-text p {
+    font-size: 14px;
+    line-height: 27px;
+    padding-right: 31px;
+    padding-left: 31px;
+    text-align: justify;
+}
+.team-social-icon ul li:first-child {
+	padding-left: 0px;
+}
+.blog-img span {
+	font-size: 14px;
+	padding: 10px 13px 9px 12px;
+}
+.blog-title h2 {
+	font-size: 16px;
+	letter-spacing: 0px;
+	padding-right: 8px;
+}
+.date {
+	font-size: 13px;
+	padding-right: 10px;
+}
+.blog-desc {
+	padding-right: 13px;
+}
+.blog-desc p {
+	padding-top: 24px;
+	font-size: 14px;
+	text-align: justify;
+}
+.contact-form {
+	padding-left: 35px;
+	padding-right: 30px;
+}
+.contact-bg {
+	left: 8%;
+	width:83%;
+}
+#social-icon ul li {
+	display: inline-block;
+	margin-right: 8px;
+}
+.single-left {
+	width: 48%;
+	margin-right: 10px;
+}
+.single-left ul li a {
+	font-size: 12px;
+}
+.single-right ul li a {
+	font-size: 12px;
+}
+.leave-coment-form input[type="text"], .leave-coment-form input[type="email"]{
+	width: 49%;
+}
+.leave-coment-form input[type="email"] {
+	margin-left: 6px;
+}
+.leave-coment-form input[type="submit"] {
+	width: 42%;
+}
+.popular-posts h3, .single-category h3, .recent-posts h3, .tags h3, .comments h3, .leave-coment-form h3 {
+	font-size: 15px;
+}
+.single-comment-text h4{
+	font-size: 20px;
+}
+.single-recent-posts2 h4 a {
+	font-size: 12px;
+}
+.single-recent-posts2 h5{
+	font-size: 13px;
+}
+.single-category ul li a {
+	font-size: 12px;
+}
+.single-popular-posts h4 a {
+	font-size: 15px;
+}
+
+} 
+/*======= End =========*/
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.logo {
+	padding-top: 15px;
+	text-align: center;
+}
+.header-top {
+	height: 60px;
+}
+.welcome-header-area .stick {
+	height: 60px;
+}
+.header-text {
+	width: 82%;
+	top: 30%;
+	left: 14%;
+}
+.header-text h2 {
+	font-size: 16px;
+	letter-spacing: 0px;
+	line-height: 0;
+}
+.header-text p {
+	font-size: 12px;
+	margin-bottom: 10px;
+	margin-top: 11px;
+	line-height: 16px;
+}
+.button {
+	letter-spacing: 0px;
+	font-size: 13px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 16px;
+	padding-right: 15px;
+}
+.section-title h2 {
+	font-size: 18px;
+}
+.section-title p {
+	font-size: 14px;
+}
+.single-service {
+	margin-bottom: 15px;
+}
+.about-image {
+	margin-bottom: 40px;
+}
+.about-image img {
+	width: 83%;
+}
+#accordion {
+	width: 85%;
+	margin: 0 auto;
+}
+#accordion h3 {
+	font-size: 16px;
+}
+#accordion div span {
+	font-size: 14px;
+	margin-bottom: 12px;
+}
+#accordion div {
+	font-size: 14px;
+	text-align: justify;
+}
+#sing {
+	padding-top: 24px;
+	padding-left: 7px;
+}
+.work-menu button {
+	padding: 13px 8px 13px 7px;
+	letter-spacing: 0px;
+	font-size: 12px;
+}
+.single-client::before {
+	width: 82%;
+	left: 14%;
+}
+.single-client img {
+	width: 91px;
+	left: -10px;
+}
+.single-client i:nth-child(2) {
+	font-size: 20px;
+	padding-top: 25px;
+	margin-left: 0%;
+}
+.single-client i:nth-child(1) {
+	font-size: 20px;
+}
+.single-client p {
+	margin-left: 32%;
+	font-size: 12px;
+	padding-top: 6px;
+	text-align: justify;
+	padding-right: 15px;
+}
+.client-icon.text-right {
+	margin-right: 16px;
+}
+.single-client span {
+	font-size: 12px;
+}
+.single-name {
+	padding-bottom: 43px;
+	padding-top: 17px;
+}
+.single-client span {
+	margin-left: 24%;
+}
+.single-team {
+	width: 85%;
+	margin: 0 auto;
+}
+.team-text h3 {
+	font-size: 16px;
+}
+.team-text h4 {
+	font-size: 13px;
+	padding-bottom: 25px;
+}
+.team-text p {
+	font-size: 14px;
+	padding: 0 15px 23px 15px;
+}
+.single-blog {
+	width: 90%;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+.blog-img span {
+	left: 30px;
+	font-size: 13px;
+	padding: 9px 12px 8px 11px;
+	letter-spacing: 0px;
+}
+.blog-title h2 {
+	font-size: 16px;
+	padding-right: 13px;
+}
+.date {
+	padding-right: 13px;
+	font-size: 14px;
+}
+.blog-desc {
+	padding-right: 13px;
+}
+.blog-desc p {
+	padding-top: 20px;
+	font-size: 14px;
+	text-align: justify;
+}
+.contact-bg {
+	width: 90%;
+}
+.contact-header.text-center h2 {
+	font-size: 18px;
+	margin-bottom: 41px;
+}
+.contact-form {
+	padding-left: 15px;
+	padding-right: 17px;
+	margin-bottom: 40px;
+}
+.single-contact {
+	width: 80%;
+	margin: 0 auto;
+}
+#social-icon ul li {
+	margin-right: 6px;
+}
+.copyright-text p {
+	font-size: 13px;
+}
+.breadcam-title h2 {
+	font-size: 20px;
+}
+.breadcam-title li {
+	font-size: 14px;
+}
+.single-blog-post > h2 {
+	font-size: 16px;
+}
+.author, .cat {
+	margin-right: 4px;
+}
+.author i, .cat i {
+	font-size: 14px;
+}
+.single-blog-post > p {
+	font-size: 13px;
+}
+blockquote {
+	font-size: 15px;
+}
+.single-left {
+	width: 100%;
+	margin: 0 auto;
+}
+.single-left ul li a {
+	font-size: 13px;
+	line-height: 21px;
+}
+.single-right {
+	width: 100%;
+	margin: 0 auto;
+}
+.single-right ul li a {
+	font-size: 13px;
+	line-height: 21px;
+}
+.popular-posts h3, .single-category h3, .recent-posts h3, .tags h3, .comments h3, .leave-coment-form h3 {
+	font-size: 16px;
+}
+.single-comment-text h4 {
+	font-size: 20px;
+}
+.leave-coment-form input[type="text"], .leave-coment-form input[type="email"] {
+	width: 48%;
+}
+.leave-coment-form input[type="email"] {
+	margin-left: 7px;
+}
+.leave-coment-form input[type="submit"] {
+	width: 100%;
+}
+.single-recent-posts2 h4 a {
+	font-size: 14px;
+}
+.single-recent-posts2 h5 {
+	font-size: 12px;
+}
+
+}
+/*======= End =========*/
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.logo {
+	padding-top: 10px;
+	text-align: center;
+}
+.menu {
+	text-align: left;
+	padding-top: 9px;
+}
+.menu li a {
+	font-size: 12px;
+	margin-left: 6px;
+}
+.header-top {
+	height: 60px;
+}
+.welcome-header-area .stick {
+	height: 60px;
+}
+.header-text {
+	width: 78%;
+	left: 11%;
+	top:27%;
+}
+.header-text h2 {
+	font-size: 18px;
+	letter-spacing: 0px;
+	line-height: 0px;
+}
+.header-text p {
+	font-size: 14px;
+	margin-bottom: 16px;
+	margin-top: 17px;
+	line-height: 16px;
+	text-align: justify;
+}
+.button {
+	letter-spacing: 0px;
+	font-size: 15px;
+	padding-top: 14px;
+	padding-bottom: 13px;
+	padding-left: 17px;
+	padding-right: 18px;
+}
+.bx-wrapper .bx-pager, .bx-wrapper .bx-controls-auto {
+	bottom: 10px;
+	text-align: right;
+	padding-right: 15px;
+}
+.section-title h2 {
+	font-size: 30px;
+}
+.section-title p {
+	font-size: 14px;
+}
+.single-service {
+	width: 80%;
+	margin: 0 auto;
+	margin-bottom: 15px;
+}
+.service-text h2 {
+	font-size: 16px;
+}
+.service-text p {
+	font-size: 14px;
+}
+.about-image {
+	margin-bottom: 40px;
+}
+.about-image img {
+	width: 83%;
+}
+#accordion {
+	width: 85%;
+	margin: 0 auto;
+}
+#accordion div {
+	font-size: 14px;
+}
+.work-menu button {
+	padding: 17px 12px 17px 11px;
+	letter-spacing: 0px;
+	font-size: 16px;
+}
+.single-client::before {
+	width: 82%;
+	left: 13%;
+}
+.single-client img {
+	width: 104px;
+}
+.single-client i:nth-child(2) {
+	font-size: 25px;
+	padding-top: 43px;
+}
+.single-client i:nth-child(1) {
+	font-size: 25px;
+}
+.single-client p {
+	margin-left: 27%;
+	font-size: 14px;
+	padding-top: 6px;
+	text-align: justify;
+	padding-right: 30px;
+}
+.client-icon.text-right {
+	margin-right: 29px;
+}
+.single-client span {
+	font-size: 14px;
+}
+.single-name {
+	padding-bottom: 43px;
+	padding-top: 17px;
+}
+.single-team {
+	width: 83%;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+.single-blog {
+	padding-bottom: 30px;
+	width: 85%;
+	margin: 0 auto;
+	margin-bottom: 35px;
+}
+.blog-img span {
+	left: 49px;
+	font-size: 13px;
+	padding: 10px 13px 9px 12px;
+}
+.blog-desc p {
+	padding-top: 12px;
+	font-size: 14px;
+	text-align: justify;
+	padding-right: 20px;
+}
+.contact-bg {
+	width: 93%;
+}
+.contact-form {
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-bottom: 25px;
+}
+.big-btn {
+	margin-left: 31%;
+}
+.single-contact {
+	width: 80%;
+	margin: 0 auto;
+}
+.copyright-text p {
+	font-size: 14px;
+}
+.single-left {
+	width: 47%;
+	margin-right: 10px;
+}
+.single-left ul li a, .single-right ul li a {
+	font-size: 12px;
+	line-height: 20px;
+}
+.single-comment-text h4 {
+	font-size: 20px;
+}
+.leave-coment-form input[type="text"], .leave-coment-form input[type="email"] {
+	width: 47.82%;
+}
+.leave-coment-form input[type="submit"] {
+	width: 52%;
+	margin-right: 25%;
+}
+}
+
+/*======= End =========*/
